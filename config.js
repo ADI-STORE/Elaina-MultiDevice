@@ -59,15 +59,15 @@ global.ppulsa = '081251549899' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936' //Nomor Bot
-global.nomorown = '6281251549899' //Nomor Owner
+global.nomorbot = '6282398074198' //Nomor Bot
+global.nomorown = '6287841959988' //Nomor Owner
 global.namebot = 'Elaina BOT' //Nama Bot
 global.nameown = 'DaniXd' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', '❦ DaniXd? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6287841959988', '❦ DaniXd? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
